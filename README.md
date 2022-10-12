@@ -6,4 +6,4 @@
 - 網站專案練習
 - HTML、CSS、Bootstrap、SCSS、JQuery
 
-![image](https://github.com/jenniehuang/Co-Edit/blob/master/React%20Components.png?raw=true)
+![image](https://github.com/bobo6389/bobo20221003/blob/main/Rotate/assets/images/1.jpg)
